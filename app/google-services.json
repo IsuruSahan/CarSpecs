@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110007767338",
+    "project_id": "vehiclespecs-ff8bc",
+    "storage_bucket": "vehiclespecs-ff8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110007767338:android:6202d679736a6f74794e53",
+        "android_client_info": {
+          "package_name": "com.example.vehiclespecs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110007767338-qiq0n9lsv99amqegnsqvdmp3rf88mf1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_WFoBpAKHybq1yTdRKYEDczRVeEN8Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110007767338-qiq0n9lsv99amqegnsqvdmp3rf88mf1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
